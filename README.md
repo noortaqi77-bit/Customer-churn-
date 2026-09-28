@@ -4,7 +4,9 @@
 The company is facing a severe customer churn crisis, with 47.4% of 64,374 subscribers canceling their service, resulting in an estimated $18,991,722 in lost revenue and substantially higher customer acquisition costs.
 
 ## Executive Summary
-This project presents a data-driven investigation into customer churn using a dataset of 64,374 subscribers. The primary objective was to perform exploratory data analysis (EDA) to understand subscriber distribution and identify key demographic patterns driving customer attrition. The analysis involved mapping churn binary indicators to categorical labels and segmenting the subscriber base across gender and specific age groups to extract actionable business insights
+This project analyzes customer churn using a dataset of 64,374 customers to identify the main factors associated with customer cancellation. The analysis was conducted using Python (Pandas and Matplotlib) through data cleaning, exploratory data analysis (EDA), feature engineering, and visualization.
+
+The dataset shows an overall churn rate of 47.4%, indicating that nearly half of the customers discontinued the service. The analysis found that churn is strongly associated with contract length, customer tenure, payment delay, and the number of support calls, while demographic factors such as age and gender showed relatively smaller differences.
 
 ## File Directory/table of contents
 README file : 
