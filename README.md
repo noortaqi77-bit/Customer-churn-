@@ -7,6 +7,12 @@ The company is facing a severe customer churn crisis, with 47.4% of 64,374 subsc
 This project presents a data-driven investigation into customer churn using a dataset of 64,374 subscribers. The primary objective was to perform exploratory data analysis (EDA) to understand subscriber distribution and identify key demographic patterns driving customer attrition. The analysis involved mapping churn binary indicators to categorical labels and segmenting the subscriber base across gender and specific age groups to extract actionable business insights
 
 ## File Directory/table of contents
+README file : 
+cleaned_customer_churn.csv : the cleaned data
+customer_churn.csv : Original data
+customer_churn_project2 : code file
+customer churn - project 2 : presentation
+
 
 
 ## Data and Data Dictionary
